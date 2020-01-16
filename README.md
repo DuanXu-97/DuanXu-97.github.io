@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the personal page of Xu Duan. 
+I am currently a master student at the Institute of Software, Chinese Academy of Sciences, where I am fortunate to be advised by Prof. Jingzheng Wu. My research interests include software security, vulnerability mining, and programming language processing. At the same time, I have a strong interest in machine learning and deep learning. 
 
-You can use the [editor on GitHub](https://github.com/DuanXu-97/DuanXu-97.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In past, I got a bachelor's degree from the School of Computer Science and Technology at the University of Science and Technology Beijing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
+### Papers
+- Duan X, Wu J, Ji S, Rui Z, Luo T, Yang M, Wu Y. VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities. Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI-2019, 2019: 4665--4671.
 
-### Markdown
+- Rui Z, Wu J, Luo T, Duan X, Zhao H, Chen C. A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology, Beijing, 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Patents
+- Duan X, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (Actual review)
 
-```markdown
-Syntax highlighted code block
+- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, No. 201910554093.5. (Actual review)
 
-# Header 1
-## Header 2
-### Header 3
+### Software Copyright
+- VulSniper: source code vulnerability detection software, 2019SR0692340.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DuanXu-97/DuanXu-97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Please contact me by email: duanxu2019@iscas.ac.cn
