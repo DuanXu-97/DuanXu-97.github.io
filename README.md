@@ -1,4 +1,4 @@
-## Welcome to the personal page of Xu Duan. 
+## Welcome to Xu Duan's personal page. 
 I am currently a master student at the Institute of Software, Chinese Academy of Sciences, where I am fortunate to be advised by Prof. Jingzheng Wu. My research interests include software security, vulnerability mining, and programming language processing. At the same time, I have a strong interest in machine learning and deep learning. 
 
 In past, I got a bachelor's degree from the School of Computer Science and Technology at the University of Science and Technology Beijing.
