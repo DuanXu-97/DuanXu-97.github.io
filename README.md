@@ -18,4 +18,4 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 - VulSniper: source code vulnerability detection software, 2019SR0692340.
 
 ## Contact
-Please contact me by email: duanxu2019@iscas.ac.cn
+Please contact me via email: duanxu2019@iscas.ac.cn
