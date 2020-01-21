@@ -10,9 +10,9 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 - Rui Z, Wu J, Luo T, Duan X, Zhao H, Chen C. A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology, Beijing, 2019.
 
 ### Patents
-- Duan X, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (Actual review) (ISCAS)
+- Duan X, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (ISCAS) (Actual review)
 
-- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, No. 201910554093.5. (Actual review) (ISCAS)
+- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, No. 201910554093.5.  (ISCAS) (Actual review)
 
 ### Software Copyright
 - VulSniper: source code vulnerability detection software, 2019SR0692340. (ISCAS)
