@@ -12,7 +12,7 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 ### Patents
 - Duan X, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (ISCAS) (Actual review)
 
-- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, No. 201910554093.5.  (ISCAS) (Actual review)
+- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, ZL201910554093.5. (ISCAS) 
 
 ### Software Copyright
 - VulSniper: source code vulnerability detection software, 2019SR0692340. (ISCAS)
