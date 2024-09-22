@@ -5,15 +5,15 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 
 ## Publications
 ### Papers
-- **Duan, X.**, Wu, J., Ji, S., Rui, Z., Luo, T., Yang, M., & Wu, Y. (2019, August). VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities. In IJCAI (pp. 4665-4671). [paper](https://dl.acm.org/doi/abs/10.5555/3367471.3367692)
+- **Duan, X.**, Wu, J., Ji, S., Rui, Z., Luo, T., Yang, M., & Wu, Y. (2019, August). VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities. In IJCAI (pp. 4665-4671). [\[paper\]](https://dl.acm.org/doi/abs/10.5555/3367471.3367692)
 
-- **Duan, X.**, Wu, J., Du, M., Luo, T., Yang, M., & Wu, Y. (2021, October). MultiCode: A Unified Code Analysis Framework based on Multi-type and Multi-granularity Semantic Learning. In 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW) (pp. 359-364). IEEE. (Best Practice Award) [paper](https://ieeexplore.ieee.org/abstract/document/9700202)
+- **Duan, X.**, Wu, J., Du, M., Luo, T., Yang, M., & Wu, Y. (2021, October). MultiCode: A Unified Code Analysis Framework based on Multi-type and Multi-granularity Semantic Learning. In 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW) (pp. 359-364). IEEE. (Best Practice Award) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9700202)
 
-- **Duan, X.**, Wu, J., Luo, T., Yang, M., Wu, Y. (2020). Vulnerability mining method based on code property graph and attention BiLSTM. Journal of Software, 31(11), 3404-3420. [paper](https://www.jos.org.cn/josen/article/abstract/6061)
+- **Duan, X.**, Wu, J., Luo, T., Yang, M., Wu, Y. (2020). Vulnerability mining method based on code property graph and attention BiLSTM. Journal of Software, 31(11), 3404-3420. [\[paper\]](https://www.jos.org.cn/josen/article/abstract/6061)
 
-- Wu, J., Ling, X., **Duan, X.**, Luo, T., & Yang, M. (2024, June). VulDL: Tree-based and Graph-based Neural Networks for Vulnerability Detection and Localization. In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (pp. 323-332). [paper](https://dl.acm.org/doi/10.1145/3661167.3661211)
+- Wu, J., Ling, X., **Duan, X.**, Luo, T., & Yang, M. (2024, June). VulDL: Tree-based and Graph-based Neural Networks for Vulnerability Detection and Localization. In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (pp. 323-332). [\[paper\]](https://dl.acm.org/doi/10.1145/3661167.3661211)
 
-- Xu, X., Wu, J., Yang, M., Luo, T., **Duan, X.**, Li, W., ... & Wu, B. (2020, November). Information leakage by model weights on federated learning. In Proceedings of the 2020 workshop on privacy-preserving machine learning in practice (pp. 31-36). [paper](https://dl.acm.org/doi/10.1145/3411501.3419423)
+- Xu, X., Wu, J., Yang, M., Luo, T., **Duan, X.**, Li, W., ... & Wu, B. (2020, November). Information leakage by model weights on federated learning. In Proceedings of the 2020 workshop on privacy-preserving machine learning in practice (pp. 31-36). [\[paper\]](https://dl.acm.org/doi/10.1145/3411501.3419423)
 
 - Rui, Z., Wu, J., Luo, T., **Duan, X.**, Zhao, H., Chen, C. (2019). A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology.
 
