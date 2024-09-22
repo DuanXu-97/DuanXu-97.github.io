@@ -5,18 +5,20 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 
 ## Publications
 ### Papers
-- Duan X, Wu J, Ji S, Rui Z, Luo T, Yang M, Wu Y. VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities. Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI-2019, 2019: 4665--4671.
+- **Duan X**, Wu J, Ji S, Rui Z, Luo T, Yang M, Wu Y. VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities. Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI-2019, 2019: 4665--4671.
 
-- Duan X, Wu J, Du M, Luo T, Yang M, Wu Y. MultiCode: A Unified Code Analysis Framework based on Multi-type and Multi-granularity Semantic Learning. IEEE International Symposium on Software Reliability Engineering Workshops, 2021: 359-364.
+- **Duan X**, Wu J, Du M, Luo T, Yang M, Wu Y. MultiCode: A Unified Code Analysis Framework based on Multi-type and Multi-granularity Semantic Learning. IEEE International Symposium on Software Reliability Engineering Workshops, 2021: 359-364.
 
-- Xu X, Wu J, Yang M, Luo T, Duan X, Li W, Wu Y, Wu B. Information Leakage by Model Weights on Federated Learning. Proceedings of the 2020 Workshop on Privacy-Preserving Machine Learning in Practice, 2020: 31–36.
+- Wu J, Ling X, **Duan X**, Luo T, Yang M. VulDL: Tree-based and Graph-based Neural Networks for Vulnerability Detection and Localization. Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, 2024: 323-332.
 
-- Rui Z, Wu J, Luo T, Duan X, Zhao H, Chen C. A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology, Beijing, 2019.
+- Xu X, Wu J, Yang M, Luo T, **Duan X**, Li W, Wu Y, Wu B. Information Leakage by Model Weights on Federated Learning. Proceedings of the 2020 Workshop on Privacy-Preserving Machine Learning in Practice, 2020: 31–36.
+
+- Rui Z, Wu J, Luo T, **Duan X**, Zhao H, Chen C. A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology, Beijing, 2019.
 
 ### Patents
-- Duan X, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (ISCAS) (Actual review)
+- **Duan X**, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (ISCAS)
 
-- Duan X, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, ZL201910554093.5. (ISCAS) 
+- **Duan X**, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, ZL201910554093.5. (ISCAS) 
 
 ### Software Copyright
 - VulSniper: source code vulnerability detection software, 2019SR0692340. (ISCAS)
