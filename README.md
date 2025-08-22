@@ -16,6 +16,9 @@ In past, I got a bachelor's degree from the School of Computer Science and Techn
 - Rui, Z., Wu, J., Luo, T., **Duan, X.**, Zhao, H., Chen, C. (2019). A Method of Inheritance Security Vulnerability Detection Based on Atomic Control Flow Graph. Seminar on Manned Space Engineering Software Security Reliability Technology.
 
 ### Patents
+- **Duan X**, Liu Y. A Risk Detection Method, Device, Equipment, Medium, and Product for Large Language Model
+, ZL 202410841701.1. (ByteDance)
+
 - **Duan X**, Wu J, Luo T, Yang M, Ni C, Wu Y. A Vulnerability Detection Method based on Cycle Verification over Core Control Flow Graph, No. 201811578979.5. (ISCAS)
 
 - **Duan X**, Wu J, Wu Y, Luo T, Yang M, Ni C. A Program Source Code Encoding Method based on Code Property Tensor, ZL201910554093.5. (ISCAS) 
